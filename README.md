@@ -11,7 +11,6 @@ A simple interface project to start a bat file when selected.
 - To restart a pc without pressing any button on it.
 - To restart a pc without connecting by remote desktop also.
 - Just to write a command in command promt and restart pc by remotely.
-<br>
 
 ###  The Command
 
