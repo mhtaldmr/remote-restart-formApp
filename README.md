@@ -20,3 +20,10 @@ exit
 ```
 > IP adress needs to be replaced by the target pc ip..
 > UserName and Password needs to be replaced by the target pc informations.
+
+## Interface
+
+ <br>
+<img src="https://github.com/mhtaldmr/remote-restart-formApp/blob/main/program.png" alt="interface" />
+
+---
