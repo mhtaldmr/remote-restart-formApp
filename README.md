@@ -24,6 +24,6 @@ exit
 ## Interface
 
  <br>
-<img src="https://github.com/mhtaldmr/remote-restart-formApp/blob/main/program.png" alt="interface" />
+<img src="https://github.com/mhtaldmr/remote-restart-formApp/blob/master/program.PNG" alt="interface" />
 
 ---
