@@ -6,13 +6,16 @@ A simple interface project to start a bat file when selected.
 
 - Windows form project with `.Net6` windows form app.
 
+
 ## Goals
 
 - To restart a pc without pressing any button on it.
 - To restart a pc without connecting by remote desktop also.
 - Just to write a command in command promt and restart pc by remotely.
 
+
 ##  The Command
+
 
 - .bat file contains the command below for connecting the remote pc.
 
