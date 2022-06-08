@@ -16,11 +16,7 @@ namespace ResetlemeProgramı
                 , MessageBoxButtons.YesNo);
 
             if (confirmResult == DialogResult.Yes)
-            {
                 Process.Start(path);
-                Process.Start(path);
-                Process.Start(path);
-            }
         }
     }
 }
